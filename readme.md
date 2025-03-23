@@ -104,5 +104,5 @@ Your contributions are welcome! Please read our:
 
 Looking for your first contribution? Check our [good first issues](https://github.com/mnusurov/awesome-solidity/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
 
-[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20us%20on-LinkedIn-blue?style=flat&logo=linkedin)]([...](https://www.linkedin.com/company/solidity-developer/))  
+[Follow on LinkedIn](https://www.linkedin.com/company/solidity-developer/)  
 *License: [CC0 1.0 Universal](./license)*

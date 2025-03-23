@@ -6,7 +6,10 @@
     <a href="https://github.com/MakeAPullRequest/makeapullrequest.github.io/blob/master/index.md">
         <img alt="PRs Welcome Badge" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
     </a>
-    <a href="https://github.com/mnusurov/awesome-solidity/blob/main/LICENSE">
+    <a href="https://www.linkedin.com/company/solidity-developer/">
+        <img alt="Follow us on LinkedIn" src="https://img.shields.io/badge/Follow%20us%20on-LinkedIn-blue?style=flat&logo=linkedin">
+    </a>
+    <a href="https://github.com/mnusurov/awesome-solidity/blob/main/license">
         <img alt="License Badge" src="https://img.shields.io/badge/license-CC0-blue.svg">
     </a>
 </p>
@@ -50,6 +53,7 @@ A curated list of carefully selected Solidity resources, tools, tutorials, and b
 ## Libraries & Frameworks
 
 - [OpenZeppelin Contracts](https://openzeppelin.com/contracts/) - Secure smart contract components
+- [Solady](https://github.com/Vectorized/solady) - Gas-optimized Solidity library using low-level assembly for modern implementations. MIT licensed (Spearbit audited).
 - [Solmate](https://github.com/transmissions11/solmate) - Gas-optimized base contracts
 - [Dappsys](https://github.com/dapphub/dappsys) - Modular system components
 
@@ -100,4 +104,5 @@ Your contributions are welcome! Please read our:
 
 Looking for your first contribution? Check our [good first issues](https://github.com/mnusurov/awesome-solidity/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
 
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20us%20on-LinkedIn-blue?style=flat&logo=linkedin)]([...](https://www.linkedin.com/company/solidity-developer/))  
 *License: [CC0 1.0 Universal](./license)*

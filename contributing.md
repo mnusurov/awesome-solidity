@@ -30,7 +30,7 @@ Thank you for your contributions to making this list a valuable resource for the
 ---
 
 **Working on your first Pull Request?** You can learn how from this _free_ series
-[How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
+[How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 
 **Updating your PR**
 A lot of times, making a PR adhere to the standards above can be difficult.

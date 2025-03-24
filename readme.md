@@ -82,7 +82,7 @@ A curated list of carefully selected Solidity resources, tools, tutorials, and b
 ## Gas Optimization
 - [evm.codes](https://www.evm.codes/) - EVM opcode gas reference  
 - [Foundry Gas Reports](https://book.getfoundry.sh/forge/gas-reports) - Built-in gas profiling for Solidity tests
-- [Awesome Gas Optimization](https://github.com/0xisk/awesome-solidity-gas-optimization) - Curated list or resource on gas optimisation topic
+- [Awesome Gas Optimization](https://github.com/0xisk/awesome-solidity-gas-optimization) - Curated list or resource on gas optimization topic
 
 ## Upgradeable Contracts
 - [OpenZeppelin: Upgrades](https://docs.openzeppelin.com/upgrades) - Guide to upgradeable contracts using Transparent/UUPS proxies  

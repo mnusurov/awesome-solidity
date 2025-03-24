@@ -49,6 +49,7 @@ A curated list of carefully selected Solidity resources, tools, tutorials, and b
 - [Foundry](https://book.getfoundry.sh/) - Fast smart contract development toolkit
 - [Remix IDE](https://remix.ethereum.org/) - Web-based Solidity IDE
 - [Tenderly](https://tenderly.co/) - Smart contract debugging and monitoring
+- [OpenZeppelin Contracts Wizard](https://wizard.openzeppelin.com/) - Interactive smart contract generator
 
 ## Libraries & Frameworks
 
@@ -68,6 +69,7 @@ A curated list of carefully selected Solidity resources, tools, tutorials, and b
 
 ## Security Analysis Tools
 
+- [OpenZeppelin Code Inspector](https://www.openzeppelin.com/defender#secure-code) - Static analysis tool for Solidity
 - [Slither](https://github.com/crytic/slither) - Static analysis framework for Solidity
 - [Solhint](https://github.com/protofire/solhint) - Solidity linter for security and style guide validations
 - [Surya](https://github.com/ConsenSys/surya) - Utility for smart contract systems analysis
